@@ -15,10 +15,10 @@ export function Header({ className }: HeaderProps) {
         {/* Логотип */}
         <div className="flex items-center gap-3">
           <Image
-            src="/logo.svg"
+            src="/logo.png"
             alt="Логотип Paw Pizza"
-            width={44}
-            height={44}
+            width={300}
+            height={300}
             className="w-[44px] shrink-0"
           />
           <div>
