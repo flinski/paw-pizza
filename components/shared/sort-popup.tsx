@@ -1,5 +1,5 @@
-import { cn } from '@/lib/utils'
 import { ArrowUpDown } from 'lucide-react'
+import { cn } from '@/lib/utils'
 
 type SortPopupProps = {
   className?: string
