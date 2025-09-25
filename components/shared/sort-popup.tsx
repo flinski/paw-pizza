@@ -9,7 +9,7 @@ export function SortPopup({ className }: SortPopupProps) {
   return (
     <div
       className={cn(
-        'hover:border-primary inline-flex h-10 cursor-pointer items-center gap-1 rounded-lg border px-4 text-sm duration-150 hover:bg-orange-50',
+        'hover:border-primary inline-flex h-9 cursor-pointer items-center gap-1 rounded-md border bg-neutral-100 px-4 text-sm duration-150 hover:bg-neutral-100/90',
         className
       )}
     >
